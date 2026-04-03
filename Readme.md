@@ -1,12 +1,1 @@
 Primeiro projeto git 2026
-
-Principais comandos do Git
-
-"git version" para verificar a versão do git
-"git init" para iniciar o git
-"git add (nome do arquivo) serve para adicionar alterações realizadas nos arquivos do seu projeto à staging area (área de preparação) do Git
-"git status" serve para exibir o estado atual do repositório de trabalho, ele mostra arquivos modificados, arquivos na Staging Area, arquivos não rastreados(Untracked) e Branch atual
-"git commit -m" serve para registrar e salvar permanentemente as alterações feitas nos arquivos de um projeto no repositório local
-"git config --global user.name "Seu Nome" e "git config --global user.email "seuemail@exemplo.com" para configurar nome e email
-"git branch" serve para gerenciar ramificações (branches) no Git. Resumidamente, ele permite criar, listar, renomear ou excluir linhas de desenvolvimento paralelas
-"git remote origin" serve para vincular o seu repositório local a um repositório remoto (como GitHub, GitLab ou Bitbucket)
